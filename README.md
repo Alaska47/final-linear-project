@@ -91,7 +91,7 @@
 &nbsp;
 
 
-## Original (gray-scaled) image with an emboss sobel convolution matrix applied
+## Original (gray-scaled) image with an emboss convolution matrix applied
 <a href="url"><img src="https://raw.githubusercontent.com/Alaska47/final-linear-project/master/output_9_EMBOSS.png" align="center" width="400" ></a>
 
 &nbsp;
