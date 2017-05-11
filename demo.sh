@@ -6,6 +6,5 @@ python lin_proj.py demo.png demo_4_BOTTOM_EDGE.png bottom_edge 1
 python lin_proj.py demo.png demo_5_TOP_EDGE.png top_edge 1
 python lin_proj.py demo.png demo_6_LEFT_EDGE.png left_edge 1
 python lin_proj.py demo.png demo_7_RIGHT_EDGE.png right_edge 1
-python lin_proj.py demo.png demo_8_EMBOSS.png emboss 1
-
-rm -rf demo.png
+python lin_proj.py demo.png demo_8_OUTLINE.png outline 1
+python lin_proj.py demo.png demo_9_EMBOSS.png emboss 1
