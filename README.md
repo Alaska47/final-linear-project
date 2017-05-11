@@ -41,7 +41,7 @@
 &nbsp;
 
 
-## Original (gray-scaled) image with a bottom sobel convolution matrix applied
+## Original (gray-scaled) image with a top sobel convolution matrix applied
 <a href="url"><img src="https://raw.githubusercontent.com/Alaska47/final-linear-project/master/output_4_BOTTOM_EDGE.png" align="center" width="400" ></a>
 
 &nbsp;
@@ -51,7 +51,7 @@
 &nbsp;
 
 
-## Original (gray-scaled) image with a top sobel convolution matrix applied
+## Original (gray-scaled) image with a bottom sobel convolution matrix applied
 <a href="url"><img src="https://raw.githubusercontent.com/Alaska47/final-linear-project/master/output_5_TOP_EDGE.png" align="center" width="400" ></a>
 
 &nbsp;
@@ -61,7 +61,7 @@
 &nbsp;
 
 
-## Original (gray-scaled) image with a left sobel convolution matrix applied
+## Original (gray-scaled) image with a right sobel convolution matrix applied
 <a href="url"><img src="https://raw.githubusercontent.com/Alaska47/final-linear-project/master/output_6_LEFT_EDGE.png" align="center" width="400" ></a>
 
 &nbsp;
@@ -71,7 +71,7 @@
 &nbsp;
 
 
-## Original (gray-scaled) image with a right sobel convolution matrix applied
+## Original (gray-scaled) image with a left sobel convolution matrix applied
 <a href="url"><img src="https://raw.githubusercontent.com/Alaska47/final-linear-project/master/output_7_RIGHT_EDGE.png" align="center" width="400" ></a>
 
 &nbsp;
